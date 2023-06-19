@@ -1,2 +1,2 @@
 # FDS-project
-This repo has source code of our FDS project.
+This repo has the source code of our FDS project.
